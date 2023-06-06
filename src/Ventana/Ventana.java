@@ -1,6 +1,5 @@
 package Ventana;
 
-import java.net.SocketOption;
 
 public class Ventana {
     public static void main(String[] args) {
